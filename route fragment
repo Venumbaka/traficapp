@@ -1,0 +1,6 @@
+package com.saveetha.trafficguard;
+
+import androidx.fragment.app.Fragment;
+
+public class RoutesFragment extends Fragment {
+}
